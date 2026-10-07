@@ -1,0 +1,7 @@
+-- =============================================================================
+-- AssistOS — seed do ambiente LOCAL (`supabase db reset`)
+-- =============================================================================
+-- Executado apenas no banco local de desenvolvimento, nunca em producao.
+-- Os dados iniciais (organizacao Smart 360, usuario administrador) entram
+-- junto com o modulo de autenticacao e organizacoes (Fase 1).
+-- =============================================================================
